@@ -69,7 +69,8 @@ My research interests include:
 - 📧 **Personal Email:** [obsigilo5@gmail.com](mailto:obsigilo5@gmail.com)  
 - 📱 **Phone:** +251935069789 *(WhatsApp/Telegram)*  
 - 🌐 **LinkedIn:** [linkedin.com/in/obsa-gilo-ph-d-668b23164](https://www.linkedin.com/in/obsa-gilo-ph-d-668b23164)  
-- 🎓 **Google Scholar:** [Dr. Obsa Gilo on Google Scholar](https://scholar.google.com/citations?user=5638qy4AAAAJ&hl=en)  
+- 🎓 **Google Scholar:** [Dr. Obsa Gilo on Google Scholar](https://scholar.google.com/citations?user=5638qy4AAAAJ&hl=en)
+- **Personal Website:** [https://sites.google.com/view/obsawollega-university/home]
 
 ---
 
