@@ -34,13 +34,13 @@ In addition to his research contributions, Dr. Obsa is actively involved in teac
 I teach courses in **Computer Science and Engineering** with a focus on **Deep Learning**, **NLP**, and **Cyber Security**.
 Im currently teaching
 
--**Data Structures and Algorithms**
+- **Data Structures and Algorithms**
 
--**Distributed Systems  ( for PG students)**
+- **Distributed Systems  ( for PG students)**
 
--**Intro. Natural Language Processing ( for PG students)**
+- **Intro. Natural Language Processing ( for PG students)**
 
--**Computer Vision and Image processing**
+- **Computer Vision and Image processing**
 
 - **Design and Analysis of Algorithms**
 
@@ -54,12 +54,14 @@ Im currently teaching
 -Machine Learning and Deep Learning
 - Transfer Learning and Domain Adaptation
 - Visual Recognition and Time Series Analysis
-- NLP for low Resource Languages like Afaan Oromoo
+- NLP for low-resource languages like Afaan Oromoo
 - Cyber Security
 
 
 ## 📧 Contact Us <a name="contact-us"></a>
-- 📫 **Email:obsag@wollegauniversity.edu.et  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/obsa-gilo-wakuma)  
-- 📝 [Blog]()
+- 📫 **Work Email:** [obsag@wollegauniversity.edu.et](mailto:obsag@wollegauniversity.edu.et)  
+- 📧 **Personal Email:** [obsigilo5@gmail.com](mailto:obsigilo5@gmail.com)  
+- 📱 **Phone:** +251935069789 (WhatsApp/Telegram)  
+- 🌐 **LinkedIn:** [linkedin.com/in/obsa-gilo-ph-d-668b23164](https://www.linkedin.com/in/obsa-gilo-ph-d-668b23164)  
+- 🎓 **Google Scholar:** [Dr. Obsa Gilo on Google Scholar](https://scholar.google.com/citations?user=5638qy4AAAAJ&hl=en)
 
