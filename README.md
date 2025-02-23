@@ -18,9 +18,7 @@ I am an **Assistant Professor** at **Wollega University**, Ethiopia.
 ## 🏠 Home <a name="home"></a>  
 
 Welcome to my GitHub profile! I am an Assistant Professor at **Wollega University**, Ethiopia.  
-My vision is to make Wollega University a **center of excellence in Cyber Security** by 2042.  
 
----
 
 ## 👤 About Me <a name="about-me"></a>  
 
