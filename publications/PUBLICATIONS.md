@@ -16,7 +16,7 @@
 - **Date**: December 2024
 - **Pages**: 124725
 - **DOI**: [To be updated]
-- **Status**: ✅ Accepted
+- **Status**: ✅ Published
 - **Focus**: Kernel methods, Bures metric, domain adaptation, sensor data
 
 #### 2. Subdomain Adaptation via Correlation Alignment with Entropy Minimization for Unsupervised Domain Adaptation
