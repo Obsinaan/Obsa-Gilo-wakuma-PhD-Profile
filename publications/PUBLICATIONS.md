@@ -147,7 +147,7 @@
 
 | Journal/Conference | Access Link | Status |
 |---|---|---|
-| Expert Systems with Applications | [Elsevier](https://www.elsevier.com/journals/expert-systems-with-applications) | 🔒 Accepted |
+| Expert Systems with Applications | [Elsevier](https://www.elsevier.com/journals/expert-systems-with-applications) | 🔒 Published|
 | Pattern Analysis and Applications | [Springer](https://link.springer.com/) | 🔓 Published |
 | IEEE Access | [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639) | 🔓 Published |
 | Journal of Visual Communication and Image Representation | [Elsevier](https://www.elsevier.com/journals/journal-of-visual-communication-and-image-representation) | 🔓 Published |
