@@ -3,7 +3,7 @@
 <div align="center">
   <h1>Dr. Obsa Gilo Wakuma</h1>
   <p><strong>Postdoctoral Researcher | Deep Learning & Time Series Modeling</strong></p>
-  <p><strong>MUST (Machine Learning & Uncertainty & Scalability Technology) Research Group</strong></p>
+  <p><strong>MUST Deep Learning Research Group</strong></p>
   <p><strong>North-West University, Potchefstroom, South Africa 🇿🇦</strong></p>
   <p><em>Deep Learning | Time Series Analysis | Domain Adaptation | Computer Vision | NLP</em></p>
 </div>
